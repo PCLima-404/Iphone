@@ -1,0 +1,3 @@
+interface Internet {
+    void browseInternet();
+}
