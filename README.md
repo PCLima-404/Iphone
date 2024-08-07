@@ -1,0 +1,1 @@
+Resolução desafio crie diagrama UML que represente o iPhone como um reprodutor musical, aparelho telefônico e navegador na internet. Além disso, pede a implementação dessas classes e interfaces em Java.
