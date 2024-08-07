@@ -1,0 +1,3 @@
+interface Celular {
+    void ligacao();
+}

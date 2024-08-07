@@ -1,0 +1,7 @@
+
+interface Musicas {
+    void tocarMusica();
+
+}
+
+
